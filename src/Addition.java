@@ -6,6 +6,7 @@ public class Addition {
 
 		System.out.println("addition symbol is +");
 		System.out.println("substraction symbol is -");
+		System.out.println("Multiplication symbol is *");
 	}
 
 }
